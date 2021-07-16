@@ -11,7 +11,7 @@ export default () => (
         React + TypeScript...
       </a>
     </p>
-    <p className="font-bold italic text-lg bg-red-500">So cool. What about this?</p>
+    <p className="font-bold italic text-lg bg-pink-400 rounded-full dark:bg-green-300">So cool. What about this?</p>
     <p>
       <a href="https://twitter.com/swyx">Report issues with this template</a>
     </p>

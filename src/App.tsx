@@ -12,11 +12,12 @@ addPrefetchExcludes(['dynamic'])
 function App() {
   return (
     <Root>
-      <nav className="bg-gray-900">
+      <nav className="dark:bg-pink-500">
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/blog">Blog</Link>
         <Link to="/dynamic">Dynamic</Link>
+        <Link to="/example">Example</Link>
       </nav>
       <div>
         <FancyDiv>
